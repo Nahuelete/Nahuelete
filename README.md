@@ -60,7 +60,7 @@
   <a href="https://github.com/Nahueleete">
     <img src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://tuportfolio.netlify.app">
+  <a href="[https://tuportfolio.netlify.app](https://6907f96bd8dd062f8467cf81--portfolionahuelcappa.netlify.app/)">
     <img src="https://img.shields.io/badge/Portfolio-0ABDE3?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
