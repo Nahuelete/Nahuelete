@@ -36,6 +36,9 @@
 |-----------|-------|
 | **Dart** | <span style="color:#1E90FF">██████████░</span> 80% |
 | **Flutter** | <span style="color:#1E90FF">████████░</span> 80% |
+| **HTML** | <span style="color:#FFA500">██████░░</span> 70% |
+| **CSS** | <span style="color:#FFA500">██████░░</span> 70% |
+| **JavaScript** | <span style="color:#FFA500">████░░░</span> 50% |
 | **Python** | <span style="color:#FFA500">███░░░░░░</span> 30% |
 
 #### 🖌 Frontend & UI
