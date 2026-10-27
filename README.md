@@ -24,7 +24,7 @@
 ---
 
 ### 🧠 Sobre mí  
-> 👋 Mi nombre es **Nahuel Cappa**, soy un desarrollador junior de 19 años apasionado por crear aplicaciones móviles y web con **Flutter** y **Dart**, donde he desarrollado múltiples proyectos en estos últimos 5 años que combinan funcionalidad con diseño elegante.
+> 👋 Mi nombre es **Nahuel Cappa**, soy un desarrollador junior de 20 años apasionado por crear aplicaciones móviles y web con **Flutter** y **Dart**, donde he desarrollado múltiples proyectos en estos últimos 5 años que combinan funcionalidad con diseño.
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=2500&pause=1000&color=33CCFF&center=true&vCenter=true&width=650&lines=Desarrollador+Flutter;UI%2FUX+Lover;Creador+de+experiencias+digitales;Apasionado+por+el+diseño+y+la+animación" alt="Typing Animation" style="filter: drop-shadow(0 0 6px #33CCFF);"/>
