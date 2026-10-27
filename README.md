@@ -3,7 +3,7 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="5px"/>
 </div>
 
-<h1 align="center">✨ Nahuel Cappa — Desarrollador Full-Stack Flutter ✨</h1>
+<h1 align="center">✨ Nahuel Cappa — Desarrollador Full-Stack ✨</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
